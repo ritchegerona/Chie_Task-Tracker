@@ -6,14 +6,14 @@ Multi-user task tracker for office teams and personal productivity: auth, worksp
 
 | | |
 |--|--|
-| **GitHub Pages home** | https://ritchegerona.github.io/chietask/ |
-| **🏢 MSR full SaaS app (free, no install)** | https://ritchegerona.github.io/chietask/msr.html |
-| **Register** | https://ritchegerona.github.io/chietask/register.html |
-| **Login** | https://ritchegerona.github.io/chietask/login.html |
-| **App dashboard** | https://ritchegerona.github.io/chietask/app.html |
-| **Docs** | https://ritchegerona.github.io/chietask/docs.html |
-| **Install server SaaS** | https://ritchegerona.github.io/chietask/install.html |
-| **Source repo** | https://github.com/ritchegerona/chietask |
+| **GitHub Pages home** | https://ritchegerona.github.io/Chie_Task-Tracker/ |
+| **🏢 MSR full SaaS app (free, no install)** | https://ritchegerona.github.io/Chie_Task-Tracker/msr.html |
+| **Register** | https://ritchegerona.github.io/Chie_Task-Tracker/register.html |
+| **Login** | https://ritchegerona.github.io/Chie_Task-Tracker/login.html |
+| **App dashboard** | https://ritchegerona.github.io/Chie_Task-Tracker/app.html |
+| **Docs** | https://ritchegerona.github.io/Chie_Task-Tracker/docs.html |
+| **Install server SaaS** | https://ritchegerona.github.io/Chie_Task-Tracker/install.html |
+| **Source repo** | https://github.com/ritchegerona/Chie_Task-Tracker |
 | **Share text** | [public/SHARE.md](./public/SHARE.md) |
 
 ### Share with all MSR workmates
@@ -21,7 +21,7 @@ Multi-user task tracker for office teams and personal productivity: auth, worksp
 Exact copy of the working SaaS tracker UI (tasks, multi-timers, categories, workspaces, settings, themes) — **free for MSR**, pure web:
 
 ```
-https://ritchegerona.github.io/chietask/msr.html
+https://ritchegerona.github.io/Chie_Task-Tracker/msr.html
 ```
 
 Each workmate creates an account in their browser; tasks stay on **their device only**.
@@ -67,18 +67,18 @@ No Node.js build step is required (vanilla HTML/CSS/JS frontend).
 
 ## Install
 
-### 1. Clone (private repo)
+### 1. Clone
 
 ```bash
-git clone https://github.com/ritchegerona/chietask.git
-cd chietask
+git clone https://github.com/ritchegerona/Chie_Task-Tracker.git
+cd Chie_Task-Tracker
 ```
 
 Use SSH if you prefer:
 
 ```bash
-git clone git@github.com:ritchegerona/chietask.git
-cd chietask
+git clone git@github.com:ritchegerona/Chie_Task-Tracker.git
+cd Chie_Task-Tracker
 ```
 
 ### 2. Create virtual environment & install dependencies
@@ -229,4 +229,4 @@ Pre-SaaS original (legacy single-file app): `backups/pre-saas-original-2026-07-1
 
 ## License
 
-Private / internal use unless otherwise specified by the repository owner.
+This project is licensed under the [MIT License](LICENSE).

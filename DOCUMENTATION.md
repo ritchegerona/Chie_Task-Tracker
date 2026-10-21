@@ -1,8 +1,8 @@
 # ChieTask — Full Project Documentation
 
 **Version:** 2.2 (finalized SaaS)  
-**Repository:** https://github.com/ritchegerona/chietask (public)  
-**MSR free web:** https://ritchegerona.github.io/chietask/msr.html  
+**Repository:** https://github.com/ritchegerona/Chie_Task-Tracker (public)  
+**MSR free web:** https://ritchegerona.github.io/Chie_Task-Tracker/msr.html  
 **Stack:** FastAPI · SQLAlchemy · SQLite · Vanilla JS frontend · Docker  
 
 This document describes architecture, features, APIs, data model, configuration, security, **backups**, and operations for ChieTask.
@@ -479,7 +479,7 @@ Pre-SaaS source snapshot: `backups/pre-saas-original-2026-07-12/` (see §12.2).
 
 ## 16. License
 
-Private / internal use unless the repository owner states otherwise.
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for the full text.
 
 ---
 
